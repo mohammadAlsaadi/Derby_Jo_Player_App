@@ -28,8 +28,7 @@ A  Flutter app ,"Derby Jo" is a sports booking app.
 <img src="https://github.com/mohammadAlsaadi/DerbyJo/assets/118960271/627273b3-c698-45a0-b00a-37909bb314f8" alt="typeOfUser" width="180" height="380">     
 
 4- the app has many options to allow the user get everything he/she need with a simple way.             
-- if he/she need to search a book :
-<img src="https://github.com/mohammadAlsaadi/DerbyJo/assets/118960271/c05e9ed6-1d5f-433f-a48b-2c8cf7c64c60" alt="typeOfUser" width="200" height="400">
+
                                                                    
 - if he/she need to see the Activities :
 <img src="https://github.com/mohammadAlsaadi/DerbyJo/assets/118960271/a677abcb-9a06-42f2-9f43-bdc50e44f63d" alt="typeOfUser" width="200" height="400">
